@@ -8,3 +8,4 @@ theme:
 nav:
   - Welcome: 'index.md'
   - 'assembling.md'
+  - 'estimated-print-time.md'
