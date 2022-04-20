@@ -1,0 +1,10 @@
+site_name: El-Vis
+site_url: https://el-vis.readthedocs.io/
+repo_url: https://github.com/lichtwellenreiter/elvis
+repo_name: elvis
+site_author: lichtwellenreiter
+theme:
+  name: readthedocs
+nav:
+  - Welcome: 'index.md'
+  - 'assembling.md'
